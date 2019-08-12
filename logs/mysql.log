@@ -1,0 +1,212 @@
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+181217 15:04:23  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+181217 15:04:23  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+181217 15:04:24  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+181217 15:04:25  InnoDB: Started; log sequence number 0 0
+181217 15:04:25 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+181217 15:18:28 [Note] doliwampmysqld: Normal shutdown
+
+181217 15:18:28  InnoDB: Starting shutdown...
+181217 15:18:32  InnoDB: Shutdown completed; log sequence number 0 43655
+181217 15:18:32 [Note] doliwampmysqld: Shutdown complete
+
+181217 15:20:39  InnoDB: Started; log sequence number 0 43655
+181217 15:20:49 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+181219 17:22:45 [Note] doliwampmysqld: Normal shutdown
+
+181219 17:22:45  InnoDB: Starting shutdown...
+181219 17:22:47  InnoDB: Shutdown completed; log sequence number 0 43655
+181219 17:22:47 [Note] doliwampmysqld: Shutdown complete
+
+181219 17:23:10  InnoDB: Started; log sequence number 0 43655
+181219 17:23:11 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+181221 11:49:33  InnoDB: Started; log sequence number 0 43655
+181221 11:49:45 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+181221 12:23:54 [Note] doliwampmysqld: Normal shutdown
+
+181221 12:23:54  InnoDB: Starting shutdown...
+181221 12:23:56  InnoDB: Shutdown completed; log sequence number 0 43655
+181221 12:23:56 [Note] doliwampmysqld: Shutdown complete
+
+181221 12:24:09  InnoDB: Started; log sequence number 0 43655
+181221 12:24:10 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+181228 11:42:47 [Note] doliwampmysqld: Normal shutdown
+
+181228 11:42:47  InnoDB: Starting shutdown...
+181228 11:42:49  InnoDB: Shutdown completed; log sequence number 0 43655
+181228 11:42:49 [Note] doliwampmysqld: Shutdown complete
+
+181228 11:43:05  InnoDB: Started; log sequence number 0 43655
+181228 11:43:05 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190109 11:27:55  InnoDB: Started; log sequence number 0 43655
+190109 11:28:06 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190114 15:47:21 [Note] doliwampmysqld: Normal shutdown
+
+190114 15:47:25  InnoDB: Starting shutdown...
+190114 15:47:52  InnoDB: Shutdown completed; log sequence number 0 43655
+190114 15:47:53 [Note] doliwampmysqld: Shutdown complete
+
+190114 15:49:43  InnoDB: Started; log sequence number 0 43655
+190114 15:49:51 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190116 12:08:44 [Note] doliwampmysqld: Normal shutdown
+
+190116 12:08:45  InnoDB: Starting shutdown...
+190116 12:08:49  InnoDB: Shutdown completed; log sequence number 0 43655
+190116 12:08:49 [Note] doliwampmysqld: Shutdown complete
+
+190116 12:10:52  InnoDB: Started; log sequence number 0 43655
+190116 12:10:55 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190116 12:29:31 [Note] doliwampmysqld: Normal shutdown
+
+190116 12:29:31  InnoDB: Starting shutdown...
+190116 12:29:32  InnoDB: Shutdown completed; log sequence number 0 43655
+190116 12:29:32 [Note] doliwampmysqld: Shutdown complete
+
+190116 12:31:32  InnoDB: Started; log sequence number 0 43655
+190116 12:31:39 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190205 11:54:28 [Note] doliwampmysqld: Normal shutdown
+
+190205 11:54:31  InnoDB: Starting shutdown...
+190205 11:54:54  InnoDB: Shutdown completed; log sequence number 0 43655
+190205 11:54:55 [Note] doliwampmysqld: Shutdown complete
+
+190205 11:57:39  InnoDB: Started; log sequence number 0 43655
+190205 11:57:46 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190209 11:39:04 [Note] doliwampmysqld: Normal shutdown
+
+190209 11:39:11  InnoDB: Starting shutdown...
+190209 11:39:25  InnoDB: Shutdown completed; log sequence number 0 43655
+190209 11:39:25 [Note] doliwampmysqld: Shutdown complete
+
+190209 11:41:18  InnoDB: Started; log sequence number 0 43655
+190209 11:41:31 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190210 13:12:15  InnoDB: Started; log sequence number 0 43655
+190210 13:12:30 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190304 10:32:47  InnoDB: Started; log sequence number 0 43655
+190304 10:33:02 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190327 10:46:46  InnoDB: Started; log sequence number 0 43655
+190327 10:47:08 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190327 10:55:27  InnoDB: Started; log sequence number 0 43655
+190327 10:55:41 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190401 10:56:47  InnoDB: Started; log sequence number 0 43655
+190401 10:56:59 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190404 10:38:59  InnoDB: Started; log sequence number 0 43655
+190404 10:39:17 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190408 14:58:17  InnoDB: Started; log sequence number 0 43655
+190408 14:58:50 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190409 11:25:18 [Note] doliwampmysqld: Normal shutdown
+
+190409 11:25:20  InnoDB: Starting shutdown...
+190409 11:25:23  InnoDB: Shutdown completed; log sequence number 0 43655
+190409 11:25:23 [Note] doliwampmysqld: Shutdown complete
+
+190409 11:27:23  InnoDB: Started; log sequence number 0 43655
+190409 11:27:36 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190409 15:40:30 [Note] doliwampmysqld: Normal shutdown
+
+190409 15:40:30  InnoDB: Starting shutdown...
+190409 15:40:32  InnoDB: Shutdown completed; log sequence number 0 43655
+190409 15:40:33 [Note] doliwampmysqld: Shutdown complete
+
+190409 15:42:27  InnoDB: Started; log sequence number 0 43655
+190409 15:42:40 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190413 15:57:52  InnoDB: Started; log sequence number 0 43655
+190413 15:57:54 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190414 11:58:07  InnoDB: Started; log sequence number 0 43655
+190414 11:58:08 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190417 13:53:16 [Note] doliwampmysqld: Normal shutdown
+
+190417 13:53:19  InnoDB: Starting shutdown...
+190417 13:53:22  InnoDB: Shutdown completed; log sequence number 0 43655
+190417 13:53:22 [Note] doliwampmysqld: Shutdown complete
+
+190417 13:55:20  InnoDB: Started; log sequence number 0 43655
+190417 13:55:23 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190417 14:02:25  InnoDB: Started; log sequence number 0 43655
+190417 14:02:33 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190417 15:40:38 [Note] doliwampmysqld: Normal shutdown
+
+190417 15:40:38  InnoDB: Starting shutdown...
+190417 15:40:42  InnoDB: Shutdown completed; log sequence number 0 43655
+190417 15:40:42 [Note] doliwampmysqld: Shutdown complete
+
+190417 15:42:24  InnoDB: Started; log sequence number 0 43655
+190417 15:42:25 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190419 14:46:55  InnoDB: Started; log sequence number 0 43655
+190419 14:46:59 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190421  0:14:43  InnoDB: Started; log sequence number 0 43655
+190421  0:14:45 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190422 18:05:26 [Note] doliwampmysqld: Normal shutdown
+
+190422 18:05:28  InnoDB: Starting shutdown...
+190422 18:05:44  InnoDB: Shutdown completed; log sequence number 0 43655
+190422 18:05:44 [Note] doliwampmysqld: Shutdown complete
+
+190422 18:07:34  InnoDB: Started; log sequence number 0 43655
+190422 18:07:43 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190429 11:28:04 [Note] doliwampmysqld: Normal shutdown
+
+190429 11:28:07  InnoDB: Starting shutdown...
+190429 11:28:33  InnoDB: Shutdown completed; log sequence number 0 43655
+190429 11:28:33 [Note] doliwampmysqld: Shutdown complete
+
+190429 11:29:56  InnoDB: Started; log sequence number 0 43655
+190429 11:30:02 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190608 10:36:47  InnoDB: Started; log sequence number 0 43655
+190608 10:36:57 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190626  9:16:42  InnoDB: Started; log sequence number 0 43655
+190626  9:16:54 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190701 18:09:34  InnoDB: Started; log sequence number 0 43655
+190701 18:09:46 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190708 10:57:04  InnoDB: Started; log sequence number 0 43655
+190708 10:57:10 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190719 13:02:44  InnoDB: Started; log sequence number 0 43655
+190719 13:02:49 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190722 17:52:13  InnoDB: Started; log sequence number 0 43655
+190722 17:52:36 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
